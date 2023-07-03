@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+section#caa{
+    width: 900px;
+    margin: auto;
+}
+
+iframe#ij{
+    width: 395px;
+    height: 250px;
+    border: none;
+    overflow: hidden;
+}
+
+iframe#ij::-webkit-scrollbar{
+    display: none;
+}
